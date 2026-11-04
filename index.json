@@ -1,0 +1,19 @@
+{
+  "addons": [
+    {
+      "id": "forkhello",
+      "name": "Hello from my fork",
+      "version": "1.0.0",
+      "description": "A sample add-on from a personal repository: says hello and counts how often it was opened.",
+      "about": "The sample add-on of the repository template: a page next to Home (press its button or number), a service part that answers /api/addons/forkhello/hit and keeps a counter in its own settings. Copy this folder, rename the id, change the page.",
+      "preview": "",
+      "kind": "service",
+      "permissions": [],
+      "files": {
+        "addon.json": "e9e195de08681fffbd6f4fcf6f89d5e794b6f7878b483d8b169cbbbdeef93baa",
+        "index.html": "0d2b50cba5e7d25eb15a9ae8ad94b63a3c66f1d523c95800f69e8b124f078dac",
+        "service.js": "af5397e556e468beb92fd0fb668a6934916aa10dfc045bd0f957ae1a274a1969"
+      }
+    }
+  ]
+}
